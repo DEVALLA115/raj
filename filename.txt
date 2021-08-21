@@ -1,2 +1,7 @@
-username: ravindra
-password: ravindra
+username: DEVALLA115
+password: ravindrababu12
+
+
+dbuser config
+mysql data
+
